@@ -18,6 +18,7 @@
   "homepage": "https://github.com/RVCC-IDMX/tz-convrter-craterellus#readme",
   "dependencies": {
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.37"
+    "moment-timezone": "^0.5.37",
+    "yargs": "^17.6.0"
   }
 }
