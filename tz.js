@@ -5,8 +5,7 @@ const yargs = require('yargs');
 moment.tz.setDefault('America/New_York');
 
 const command = yargs.argv._[0];
-console.log(yargs.argv);
-// console.log(process.argv)
+
 let targetTimezone;
 
 if (command === false) {
